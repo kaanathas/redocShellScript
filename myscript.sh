@@ -1,4 +1,4 @@
-export MY_COOL_NODE_APP=git push -u origin masterlib
+export MY_COOL_NODE_APP=lib
 
 echo enter files path like Documents/openapiyamls
 read search_dir
@@ -14,7 +14,7 @@ read zippath
  FILE_PATH="kaanathas"
 
 for entry in "$HOME/$search_dir"/*
-do
+dogit push -u origin master
 
  FILE_PATH=$entry
 
