@@ -1,4 +1,4 @@
-export MY_COOL_NODE_APP=$HOME/Desktop/DocCreationInTS/lib
+export MY_COOL_NODE_APP=git push -u origin masterlib
 
 echo enter files path like Documents/openapiyamls
 read search_dir
