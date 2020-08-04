@@ -6,4 +6,6 @@ run
 
 
 sample yaml files are in
+https://github.com/kaanathas/exampleopenapimerge.git 
+this repo
 
